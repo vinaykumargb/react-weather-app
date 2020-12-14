@@ -1,6 +1,6 @@
 # react-weather-app
 
-This is a simple react weather app, consumes openweathermap api to get weather data. It works well on mobile, and tablet. The main goal of creating this project is to practice glassmorphic ui design, and custom hook in react.
+This is a simple react weather app, consumes [openweathermap](https://openweathermap.org/) api to get weather data. It works well on mobile, and tablet. The main goal of creating this project is to practice glassmorphic ui design, and custom hook in react.
 
 ## Setup
 > Prerequisites:
